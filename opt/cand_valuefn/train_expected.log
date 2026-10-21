@@ -1,0 +1,21 @@
+features D=186
+it   0  selfplay mean  7423.4 (eps=0.03)  n=102991  rmse  156.0  V0~[7629.1343]  t_play 290.5s t_fit  18.7s
+it   1  selfplay mean  7465.3 (eps=0.03)  n=103296  rmse  155.4  V0~[7605.436]  t_play 299.4s t_fit  25.9s
+it   2  selfplay mean  7406.9 (eps=0.03)  n=103048  rmse  153.6  V0~[7657.1934]  t_play 178.8s t_fit  55.0s
+it   3  selfplay mean  7369.6 (eps=0.03)  n=102792  rmse  155.1  V0~[7779.079]  t_play 189.7s t_fit  29.8s
+it   4  selfplay mean  7439.8 (eps=0.03)  n=103132  rmse  155.0  V0~[7858.1616]  t_play 144.7s t_fit  33.3s
+it   5  selfplay mean  7396.3 (eps=0.03)  n=102922  rmse  155.1  V0~[7833.955]  t_play 197.1s t_fit  39.2s
+it   6  selfplay mean  7480.7 (eps=0.03)  n=103091  rmse  153.6  V0~[7827.6533]  t_play 129.3s t_fit  50.9s
+it   7  selfplay mean  7348.2 (eps=0.03)  n=102661  rmse  154.2  V0~[7877.246]  t_play  30.4s t_fit   6.9s
+it   8  selfplay mean  7460.5 (eps=0.03)  n=102918  rmse  154.4  V0~[7893.3584]  t_play  79.8s t_fit  34.6s
+it   9  selfplay mean  7427.6 (eps=0.03)  n=102816  rmse  153.2  V0~[7876.186]  t_play 103.4s t_fit  27.2s
+it  10  selfplay mean  7436.3 (eps=0.03)  n=103060  rmse  155.4  V0~[7965.6753]  t_play 129.9s t_fit  27.1s
+it  11  selfplay mean  7444.1 (eps=0.03)  n=102933  rmse  156.0  V0~[7906.574]  t_play  80.2s t_fit   3.6s
+it  12  selfplay mean  7469.6 (eps=0.03)  n=103085  rmse  156.4  V0~[7990.1953]  t_play  33.2s t_fit  24.0s
+it  13  selfplay mean  7451.7 (eps=0.03)  n=103142  rmse  157.3  V0~[7985.3096]  t_play  21.3s t_fit   3.5s
+it  14  selfplay mean  7490.1 (eps=0.03)  n=103172  rmse  159.0  V0~[7926.894]  t_play  20.5s t_fit   3.5s
+it  15  selfplay mean  7451.7 (eps=0.03)  n=103114  rmse  155.4  V0~[7951.8916]  t_play  22.0s t_fit   3.9s
+it  16  selfplay mean  7464.8 (eps=0.03)  n=102909  rmse  157.6  V0~[7948.618]  t_play  20.6s t_fit   3.5s
+it  17  selfplay mean  7437.2 (eps=0.03)  n=102979  rmse  157.9  V0~[7968.15]  t_play  20.1s t_fit   3.5s
+it  18  selfplay mean  7438.3 (eps=0.03)  n=102907  rmse  161.6  V0~[8003.23]  t_play  20.2s t_fit   3.3s
+it  19  selfplay mean  7429.6 (eps=0.03)  n=102931  rmse  160.5  V0~[7991.4814]  t_play  19.9s t_fit   3.9s

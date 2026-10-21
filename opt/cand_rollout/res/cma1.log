@@ -1,0 +1,9 @@
+init test 5631.585
+gen 19 best-in-pop 5661 mean-pop 5600 sigma 0.230 test 5674.3 (best 5674.3) 143s
+gen 39 best-in-pop 5664 mean-pop 5616 sigma 0.219 test 5697.9 (best 5697.9) 231s
+gen 59 best-in-pop 5706 mean-pop 5639 sigma 0.214 test 5710.6 (best 5710.6) 318s
+gen 79 best-in-pop 5704 mean-pop 5670 sigma 0.206 test 5720.4 (best 5720.4) 416s
+gen 99 best-in-pop 5712 mean-pop 5675 sigma 0.201 test 5718.4 (best 5720.4) 531s
+gen 119 best-in-pop 5745 mean-pop 5702 sigma 0.193 test 5738.6 (best 5738.6) 654s
+gen 139 best-in-pop 5735 mean-pop 5706 sigma 0.184 test 5753.8 (best 5753.8) 773s
+gen 159 best-in-pop 5731 mean-pop 5705 sigma 0.178 test 5745.4 (best 5753.8) 898s

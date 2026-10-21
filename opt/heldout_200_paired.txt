@@ -1,0 +1,6 @@
+expectimax                        mean   6304.0  se   55.4  finished  87.0%    315.32 ms/move  (n=200)
+expectimax                        mean   6626.0  se   34.0  finished  97.0%     41.07 ms/move  (n=200)
+paired diff (strategy - baseline): -322.0  se 59.8
+strategy.py                              mean   6838.0  se   27.6  finished  97.5%     31.16 ms/move  (n=200)
+strategy.py                              mean   6626.0  se   34.0  finished  97.0%     40.22 ms/move  (n=200)
+paired diff (strategy - baseline): +212.0  se 33.9

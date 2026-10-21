@@ -1,0 +1,13 @@
+# local-only folders, not part of this repo
+phone/
+run.sh
+
+# local environment and tooling
+.venv/
+.remember/
+__pycache__/
+*.pyc
+.DS_Store
+
+# large generated training data (regenerable)
+opt/cand_expectimax/data/

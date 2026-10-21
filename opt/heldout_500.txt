@@ -1,0 +1,4 @@
+baseline.py                              mean   5864.8  se   38.9  finished  94.8%     11.11 ms/move  (n=500)
+cand_tuned                             mean   6617.6  se   25.9  finished  96.6%     45.26 ms/move  (n=500)
+cand_rollout                             mean   6629.6  se   29.3  finished  96.6%     65.57 ms/move  (n=500)
+cand_valuefn                             mean   6804.4  se   18.9  finished  98.0%     30.87 ms/move  (n=500)

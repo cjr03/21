@@ -1,0 +1,4 @@
+params.json:2b2                               mean  6491.5 se  34.2   0.731s/game
+params.json:a2b2                              mean  6505.5 se  34.1   0.815s/game  vs first  +14.0 ± 3.5
+params.json:3b2                               mean  6617.0 se  27.2  11.175s/game  vs first +125.5 ±29.1
+params.json:a3b2                              mean  6634.0 se  27.0  11.484s/game  vs first +142.5 ±28.8
